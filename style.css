@@ -1,0 +1,84 @@
+header{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+
+button{
+    
+    background-color: yellow;
+}
+
+nav{
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.img{
+    width: 30px;
+    height: 30px;
+}
+
+.box div{
+    width: 187px;
+    height: 49px;
+    display: flex;
+    justify-content: center;align-items: center;
+    
+}
+
+.black{
+    background-color: black;
+    color: white;
+}
+
+.yellow{
+    background-color: yellow;
+    color: black;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    gap: 20px;
+    height: 350px;
+}
+
+main{
+    height: 650px;
+    background-image: url(./i\ \(2\).webp);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.kotta{
+    width: 570px;
+    height: 185px;
+    background-color: yellow;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: auto;
+   margin-top: 25px;
+   opacity: 0.5;
+}
+
+
+.alt{
+    background-color: rgb(102, 99, 99);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
